@@ -1,14 +1,23 @@
-Based on current quantum technology research and simulations, the phrasing refers to the modeling of black hole physics using Rydberg atom arrays (neutral-atom quantum simulators). 
-Quantum.gov
-Quantum.gov
- +1
-≈ 256 marketing atoms: This refers to the 256-atom programmable quantum simulator used in state-of-the-art simulations of quantum matter, such as 2D antiferromagnets, which can model complex quantum systems.
-≈ 7 real algorithmic atoms: This refers to the specialized "real" or algorithmic qubits required to actually execute the simulation of a specific, complex phenomenon (such as the "breakeven" of a quantum code). 
-Nature
-Nature
- +2
-In summary, it highlights the difference between the physical hardware scale (hundreds of neutral atoms) and the computational complexity (the effective algorithmic operations) required to simulate a "quantum black hole". 
-Live Science
-Live Science
- +1
-0 molecule(s) indicates that in these quantum simulators, the atoms are individually trapped (often in optical lattices) and manipulated, rather than forming traditional chemical molecules.
+UPGRADE\_PAQJPVG Compression hybrid Software Working right without bugs and without Errors
+
+PAQJPVG_8.5-4 Replit App by Jurijus Pacalovas 8.5L-4 PAQ level 9 and zstandard level 22
+https://6d12ff49-574e-490c-a27e-ce0b42018552-00-2nsbwpijno5md.kirk.replit.dev
+
+PAQJP_8.2,3,4, 5, 5L The best paq level 10 and zstandard level 22 Done all 2026 year in April 26 by Jurijus Pacalovas and Vincent Geoghegan (I recommend version 8.2 it’s 1.3KB/s)
+
+Python 3.7.4
+
+pip install zstandard  
+
+pip install mpmath
+
+pip install cython
+
+pip install paq
+
+UPGRADE\_PAQJPVG 2704 tranfomations losslessness Lossless 100% and without corrupted files (choose the best of 255 transformations and extract back) done code 12 February lossless 100%, but Explain 16 February Lossless 100% 2026 count 10^252000000 of 100 MB variations Speed compress 170 bytes-1.3KB/s extract 500KB/s 80-97% pro-cents compress
+
+
+
+Group: Jurijus Pacalovas and Vincent Geoghegan helped add 1 byte in the front markers.
+
