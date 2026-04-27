@@ -1,6 +1,6 @@
 UPGRADE\_PAQJP Compression hybrid Software Working right without bugs and without Errors
 
-PAQJP_8.4 The best paq level 10 and zstandard level 22 Done all 2026 year in April 26 by Jurijus Pacalovas (I recommend version 8.2 it’s 1.3KB/s)
+PAQJP_8.4 The best paq level 10 and zstandard level 22 Done all 2026 year in April 26 by Jurijus Pacalovas (I recommend version 8.4 it’s 1.3KB/s)
 
 Python 3.7.4
 
